@@ -1,22 +1,17 @@
-# Lab 6 – Scale and Load Balance Your Architecture
+# Lab 8 – Scale and Load Balance Your Architecture
 
 ## Author
-
-* **Name**: THARUN R
-* **Register Number**: 212224240172
+### Name:THARUN R 
+### Register Number: 212224240172
 
 ## Title
 
 Scale and Load Balance Your Architecture
 Author : your name   Reg no : yours   Date :
 
-
-
 ## Objective
 
 The objective of this lab is to understand how to design a scalable and highly available architecture on AWS using Auto Scaling and Elastic Load Balancing. This experiment focuses on distributing incoming traffic across multiple EC2 instances, automatically scaling resources based on demand, and validating fault tolerance.
-
-
 
 ## Prerequisites
 
@@ -25,8 +20,6 @@ The objective of this lab is to understand how to design a scalable and highly a
 * AWS Academy Lab access
 * Stable internet connection
 
-
-
 ## Tools Used
 
 * AWS Management Console
@@ -34,8 +27,6 @@ The objective of this lab is to understand how to design a scalable and highly a
 * Elastic Load Balancer (ELB / ALB)
 * Auto Scaling Groups (ASG)
 * Amazon CloudWatch
-
-
 
 ## Tasks Performed
 
